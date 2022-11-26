@@ -28,6 +28,10 @@ A collection of Togolese Dev and Tech Communities
 * **Togo Designers**
   * [Website](https://design.tg)
   * [Twitter](https://twitter.com/TgDesigners)
+* **Friend Of Figma Lomé**
+  * [Telegram](https://t.me/friendsoffigmalome)
+  * [Twitter](https://twitter.com/fof_lome)
+  * [Website](https://friends.figma.com/lome-togo)
 * **TgTech 🇹🇬**
   * [Telegram](https://t.me/TgTech)
 * **Hitech 🖥📱⌚️**
@@ -51,3 +55,7 @@ A collection of Togolese Dev and Tech Communities
   * [Website](https://www.pythontogo.org/)
   * [Twitter](https://twitter.com/PythonTg)
   * [Facebook](https://www.facebook.com/PythonTg/)
+* **OpenData Togo**
+  * [Telegram](https://t.me/opendatatg)
+  * [Twitter](https://twitter.com/opendatatg)
+  * [Github](https://github.com/odtt)
