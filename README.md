@@ -8,7 +8,6 @@ A collection of Togolese Dev and Tech Communities
 ### What's a Tg Tech Community?
 An open and non-commercial gathering of players in Tech fields (Software development, Networks and infrastructure, Security, Data & AI, IoT, Cloud, Blockchain, etc). The goal is to encourage mutual support and the resolution of common problems, whether of a social or professional nature. These communities offer a space for discussion and exchange, where members can share their knowledge, ask questions, find solutions and forge links with other technology enthusiasts. They encourage collaboration, solidarity and collective development within the community.
 
-
 * **TDev**
   * [Telegram](https://t.me/tdev228)
   * [Twitter](https://twitter.com/tdev228)
@@ -40,7 +39,7 @@ An open and non-commercial gathering of players in Tech fields (Software develop
   * [Telegram](https://t.me/WordPressTG)
   * [Meetup](https://www.meetup.com/fr-FR/WordPressLome)
 * **NIGHT CODING**
-  * [Whatsapp](#)
+  * [Whatsapp](https://chat.whatsapp.com/FDonlhXxYT8FZbo1SRMvZ6)
   * [Telegram](https://t.me/night_coding_meet)
 * **GDSC Université de Lomé**
   * [Whatsapp](https://chat.whatsapp.com/ERxX6zzHJRHFOhIghqwFuF)
