@@ -5,6 +5,10 @@
 
 A collection of Togolese Dev and Tech Communities
 
+### What's a Tg Tech Community?
+An open and non-commercial gathering of players in Tech fields (Software development, Networks and infrastructure, Security, Data & AI, IoT, Cloud, Blockchain, etc). The goal is to encourage mutual support and the resolution of common problems, whether of a social or professional nature. These communities offer a space for discussion and exchange, where members can share their knowledge, ask questions, find solutions and forge links with other technology enthusiasts. They encourage collaboration, solidarity and collective development within the community.
+
+
 * **TDev**
   * [Telegram](https://t.me/tdev228)
   * [Twitter](https://twitter.com/tdev228)
@@ -32,14 +36,24 @@ A collection of Togolese Dev and Tech Communities
   * [Telegram](https://t.me/friendsoffigmalome)
   * [Twitter](https://twitter.com/fof_lome)
   * [Website](https://friends.figma.com/lome-togo)
+* **WordPress TG**
+  * [Telegram](https://t.me/WordPressTG)
+  * [Meetup](https://www.meetup.com/fr-FR/WordPressLome)
+* **NIGHT CODING**
+  * [Whatsapp](#)
+  * [Telegram](https://t.me/night_coding_meet)
+* **GDSC Université de Lomé**
+  * [Whatsapp](https://chat.whatsapp.com/ERxX6zzHJRHFOhIghqwFuF)
+  * [Telegram](https://t.me/gdsc_ul)
+* **Zindi Togo**
+  * [Whatsapp](https://chat.whatsapp.com/CIc7VuG5WtEBjpVt29fkTa)
+* **OSCA Lomé**
+  * [Whatsapp](https://chat.whatsapp.com/GIu98zL9iHU9nwUC9EXBTx)
 * **TgTech 🇹🇬**
   * [Telegram](https://t.me/TgTech)
 * **Hitech 🖥📱⌚️**
   * [Telegram](https://t.me/HiTech_Group)
   * [Whatsapp](https://chat.whatsapp.com/FAuuVFOmWmv5zuBQmJhUT4)
-* **WordPress TG**
-  * [Telegram](https://t.me/WordPressTG)
-  * [Meetup](https://www.meetup.com/fr-FR/WordPressLome)
   * [Twitter](https://twitter.com/WordpressTG)
 * **TgLINUX🐧| gnu/linux🇫🇷-Tchat👥**
   * [Telegram](https://t.me/TGLinux)
