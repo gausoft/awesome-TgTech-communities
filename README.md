@@ -48,6 +48,10 @@ An open and non-commercial gathering of players in Tech fields (Software develop
   * [Whatsapp](https://chat.whatsapp.com/CIc7VuG5WtEBjpVt29fkTa)
 * **OSCA Lomé**
   * [Whatsapp](https://chat.whatsapp.com/GIu98zL9iHU9nwUC9EXBTx)
+* **Microsoft Learn Student Ambassadors Togo (MLSA Togo)**
+  * [Twitter](https://twitter.com/mlsatogo)
+  * [YouTube](https://youtube.com/@mlsatogo)
+  * [Whatsapp](https://chat.whatsapp.com/Ji0d7JYIDF65PL6UaqLKFv)
 * **TgTech 🇹🇬**
   * [Telegram](https://t.me/TgTech)
 * **Hitech 🖥📱⌚️**
