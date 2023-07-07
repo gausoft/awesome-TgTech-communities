@@ -73,3 +73,11 @@ An open and non-commercial gathering of players in Tech fields (Software develop
   * [Telegram](https://t.me/opendatatg)
   * [Twitter](https://twitter.com/opendatatg)
   * [Github](https://github.com/odtt)
+
+
+### How to contribute ?
+
+* Make a fork
+* Make changes
+* Open pull request
+* Check the [Todo Board](https://github.com/users/gausoft/projects/5/views/1) and start with what you prefer
